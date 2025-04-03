@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"  />
+<img align="right" height="170" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"  />
 
 ###
 
@@ -36,10 +36,10 @@
 ###
 
 <p align="left">
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/kabirhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kabirhossain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nerob2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nerob2308" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kabir_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kabir_hossain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kabirhossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kabirhossain/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kabirhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kabirhossain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nerob2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nerob2308" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kabir_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kabir_hossain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kabirhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabirhossain" height="30" width="40" /></a>
 </p>
 
 ###
