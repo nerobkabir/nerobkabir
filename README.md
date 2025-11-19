@@ -8,7 +8,6 @@
 
 ---
 
-## ✨ Custom Waving Banner
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kabir%20Hossain&fontSize=60&color=gradient&animation=fadeIn"/>
