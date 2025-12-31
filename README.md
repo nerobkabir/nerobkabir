@@ -1,102 +1,134 @@
-# 🌟 Hi there! I'm Kabir Hossain
-
-> 🚀 Passionate Programmer | CSE Student | Competitive Coder
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kabir+Hossain;Competitive+Programmer;Full-Stack+Developer+In+Progress;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Kabir%20Hossain&fontSize=80&fontAlignY=35&color=gradient&customColorList=6,11,14,17,20&animation=twinkling&desc=Full-Stack%20Developer%20|%20Competitive%20Programmer%20|%20CSE%20Student&descSize=22&descAlignY=55"/>
 </div>
 
----
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kabir%20Hossain&fontSize=60&color=gradient&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kabir+Hossain;CSE+Student+%7C+Problem+Solver;Building+Full-Stack+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 I love **Competitive Programming, Algorithms & Backend Development**
-* 🎯 My Goal: Become a **Full-Stack Developer & Problem Solver**
-* 📧 Email: **[nerob2308@gmail.com](mailto:nerob2308@gmail.com)**
+I'm **Kabir Hossain**, a passionate **Full-Stack Developer** and **Competitive Programmer** pursuing Computer Science & Engineering. I love solving complex problems, building scalable web applications, and continuously learning cutting-edge technologies. My journey involves mastering algorithms, contributing to open-source, and creating impactful digital solutions.
 
 ---
 
-## 🧰 Skills & Technologies
+## 🚀 What I'm Currently Up To
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql,android,git,github,vscode,react,nodejs,linux,html,css,js" />
-</div>
+- 🔭 Exploring **Next.js** for modern web development
+- 🍽️ Building **LocalChefBazar** - A local food marketplace platform
+- 💡 Learning **System Design** and **Cloud Technologies**
+- 🏆 Actively solving problems on **Codeforces** and **LeetCode**
+- 📚 Deepening my knowledge in **Data Structures & Algorithms**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Frontend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### **Backend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" />
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,android,postman" />
+</p>
 
 ---
 
 ## 🏆 Competitive Programming Profiles
 
 <p align="left">
-<a href="https://www.codechef.com/users/kabirhossain"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" /></a>
-<a href="https://www.hackerrank.com/nerob2308"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>
-<a href="https://codeforces.com/profile/kabir_hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" /></a>
-<a href="https://leetcode.com/kabirhossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
+  <a href="https://codeforces.com/profile/kabir_hossain" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/kabirhossain" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/nerob2308" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/kabirhossain" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **Digital Student Management System**
+### 🔹 **LocalChefBazar - Local Food Marketplace**
+A comprehensive platform connecting local chefs with food lovers, featuring real-time ordering, chef profiles, and delivery tracking.
 
-A full-featured system for managing student records, attendance & results.
-
-⭐ Tech Used: React, Node.js, Express, MongoDB
-📌 Repository: *(Add Link Here)*
-
-### 🔹 More Projects Coming Soon…
-
-Stay tuned for new exciting repositories! 🚀
+**Tech Stack:** • React • Node.js • Express • MongoDB  
+**Features:** User & Chef authentication, Real-time order tracking, Payment integration, Review system  
+📌 **Live Link :** *https://localchefbazaar-31da8.web.app*
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nerobkabir&theme=dracula&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nerobkabir&show_icons=true&theme=radical&hide_border=true" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=nerobkabir&theme=radical&hide_border=true" height="190"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nerobkabir&layout=compact&theme=radical&hide_border=true" width="380"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerobkabir&show_icons=true&theme=dracula" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerobkabir&layout=compact&theme=dracula" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerobkabir&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
-
-## 🔥 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerobkabir&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kabir-hossain-54b571292/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://discord.com/kabir043411"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
+  <a href="https://www.linkedin.com/in/kabir-hossain-54b571292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nerob2308@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/kabir043411" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/nerobkabir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!** 🚀
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nerobkabir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <b>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect! 🚀</b>
+</div>
