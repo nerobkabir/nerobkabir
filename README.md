@@ -3,24 +3,28 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kabir+Hossain;CSE+Student+%7C+Problem+Solver;Building+Full-Stack+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kabir+Hossain;CSE+Student+%7C+Problem+Solver;Building+Full-Stack+Applications;Always+Learning+New+Technologies" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Kabir Hossain**, a passionate **Full-Stack Developer** and **Competitive Programmer** pursuing Computer Science & Engineering. I love solving complex problems, building scalable web applications, and continuously learning cutting-edge technologies. My journey involves mastering algorithms, contributing to open-source, and creating impactful digital solutions.
+I'm **Kabir Hossain**, a passionate **Full-Stack Developer** and **Competitive Programmer** pursuing Computer Science & Engineering. I enjoy solving complex problems, building scalable web applications, and continuously learning modern technologies.
+
+📍 **Location:** Feni, Bangladesh  
+📧 **Email:** nerob2308@gmail.com  
+📞 **Phone:** +8801856846615  
 
 ---
 
 ## 🚀 What I'm Currently Up To
 
-- 🔭 Exploring **Next.js** for modern web development
-- 🍽️ Building **LocalChefBazar** - A local food marketplace platform
-- 💡 Learning **System Design** and **Cloud Technologies**
-- 🏆 Actively solving problems on **Codeforces** and **LeetCode**
-- 📚 Deepening my knowledge in **Data Structures & Algorithms**
+- 🔭 Exploring **Next.js** for modern web development  
+- 🍽️ Building **LocalChefBazar** – a local food marketplace  
+- 💡 Learning **System Design** & **Cloud Technologies**  
+- 🏆 Solving problems on **Codeforces** & **LeetCode**  
+- 📚 Strengthening **Data Structures & Algorithms**
 
 ---
 
@@ -52,29 +56,29 @@ I'm **Kabir Hossain**, a passionate **Full-Stack Developer** and **Competitive P
 
 <p align="left">
   <a href="https://codeforces.com/profile/kabir_hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/kabirhossain" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/nerob2308" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/kabirhossain" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 **LocalChefBazar - Local Food Marketplace**
-A comprehensive platform connecting local chefs with food lovers, featuring real-time ordering, chef profiles, and delivery tracking.
+### 🔹 **LocalChefBazar – Local Food Marketplace**
+A MERN stack platform connecting local home-chefs with customers.
 
-**Tech Stack:** • React • Node.js • Express • MongoDB  
-**Features:** User & Chef authentication, Real-time order tracking, Payment integration, Review system  
-📌 **Live Link :** *https://localchefbazaar-31da8.web.app*
+**Tech Stack:** React • Node.js • Express • MongoDB  
+**Features:** Auth system, Order management, Reviews, Payments  
+🔗 **Live:** https://localchefbazaar-31da8.web.app
 
 ---
 
@@ -91,44 +95,33 @@ A comprehensive platform connecting local chefs with food lovers, featuring real
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerobkabir&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-
----
-
 ## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kabir-hossain-54b571292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nerob2308@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nerob2308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/kabir043411" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://github.com/nerobkabir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerobkabir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nerobkabir&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 </div>
 
----
-
 <div align="center">
-  <b>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect! 🚀</b>
+  <b>⭐ Thanks for visiting my profile! Feel free to connect 🚀</b>
 </div>
