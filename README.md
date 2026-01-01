@@ -104,7 +104,7 @@ A comprehensive MERN stack platform that bridges the gap between talented home-c
 - Integrated payment gateway
 - Responsive design for all devices
 
-**🔗 [Live Demo](https://localchefbazaar-31da8.web.app)** | **📂 [GitHub Repo](https://github.com/nerobkabir/localchefbazar)**
+**🔗 [Live Demo](https://localchefbazaar-31da8.web.app)** | **📂 [GitHub Repo](https://github.com/nerobkabir/Local-Chef-Bazar-Client.git)**
 
 ---
 
