@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <div align="justify">
 I'm Kabir Hossain, a dedicated Full-Stack Developer and Competitive Programmer pursuing my degree in Computer Science & Engineering. I thrive on solving algorithmic challenges and building dynamic, user-centric web applications using modern technologies. <br>
 With a strong foundation in data structures, algorithms, and full-stack development, I'm constantly pushing myself to learn new frameworks and best practices to create scalable, efficient solutions.
