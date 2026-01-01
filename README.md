@@ -6,12 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kabir+Hossain;CSE+Student+%7C+MERN+Stack+Developer;Passionate+Problem+Solver;Building+Scalable+Web+Applications;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kabir-hossain-54b571292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nerob2308@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/nerobkabir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/kabir043411"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+</br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nerobkabir&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
@@ -21,7 +16,6 @@
 
 ## 👨‍💻 About Me
 
-👨‍💻 About Me
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <div align="justify">
 I'm Kabir Hossain, a dedicated Full-Stack Developer and Competitive Programmer pursuing my degree in Computer Science & Engineering. I thrive on solving algorithmic challenges and building dynamic, user-centric web applications using modern technologies. <br>
@@ -124,15 +118,6 @@ A comprehensive MERN stack platform that bridges the gap between talented home-c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerobkabir&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
----
-
-## 💡 Fun Facts About Me
-
-- 🎯 I love participating in hackathons and coding competitions
-- 🌱 Always curious about emerging technologies and industry trends
-- 🤝 Open to collaborating on innovative projects
-- 💬 Ask me about **React**, **Node.js**, **Data Structures**, or **Problem Solving**
-- ⚡ Fun fact: I debug with console.log() more than I'd like to admit! 😄
 
 ---
 
