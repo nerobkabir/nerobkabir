@@ -91,12 +91,6 @@ I actively participate in competitive programming to sharpen my problem-solving 
 A comprehensive MERN stack platform that bridges the gap between talented home-chefs and food enthusiasts in the local community.
 
 **🔧 Tech Stack:** React.js • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS  
-**✨ Key Features:**  
-- Secure JWT-based authentication system
-- Real-time order management and tracking
-- Customer reviews and ratings system
-- Integrated payment gateway
-- Responsive design for all devices
 
 **🔗 [Live Demo](https://localchefbazaar-31da8.web.app)** | **📂 [GitHub Repo](https://github.com/nerobkabir/Local-Chef-Bazar-Client.git)**
 
