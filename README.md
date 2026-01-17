@@ -22,17 +22,17 @@
 const kabir = {
     location: "Feni, Bangladesh 🇧🇩",
     role: "Full-Stack Developer & Algorithm Specialist",
-    education: "B.Sc. in Computer Science & Engineering",
+    education: "Diploma in Computer Science & Technology",
     
     problemSolvingStats: {
         totalProblemsSolved: "1000+",
-        platforms: ["Codeforces", "LeetCode", "HackerRank", "CodeChef"],
+        platforms: ["Codeforces", "LeetCode", "HackerRank", "CodeChef", "AtCoder"],
         focusAreas: ["Dynamic Programming", "Graph Algorithms", "Data Structures"]
     },
     
     currentFocus: [
         "Building production-ready MERN applications",
-        "Mastering system design & microservices architecture",
+        "Mastering system design",
         "Contributing to open-source projects",
         "Exploring Next.js and advanced React patterns"
     ],
