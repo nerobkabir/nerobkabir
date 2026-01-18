@@ -266,7 +266,7 @@ I'm always excited to collaborate on challenging projects, discuss algorithms, o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-hossain-54b571292/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerob2308@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kabir043411)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/nerobkabir](https://kabir-portfolio-eosin.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kabir-portfolio-eosin.vercel.app))
 
 <br>
 
