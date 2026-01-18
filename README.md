@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 KABIR HOSSAIN
+#  KABIR HOSSAIN
 
 ### `Full-Stack Engineer | Competitive Programmer | Algorithm Enthusiast`
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 PROBLEM-SOLVING MINDSET
+##  PROBLEM-SOLVING MINDSET
 
 ```javascript
 const kabir = {
@@ -53,15 +53,15 @@ const kabir = {
 I don't just write code—I solve problems. With **1000+ algorithmic challenges** conquered across multiple platforms, I approach every project with an algorithmic mindset, ensuring optimal performance and scalability.
 
 **My Approach:**
-- 🎯 Understand the core problem
-- 📊 Analyze time & space complexity
-- 🔄 Iterate for optimal solutions
-- ✅ Write clean, maintainable code
+-  Understand the core problem
+-  Analyze time & space complexity
+-  Iterate for optimal solutions
+-  Write clean, maintainable code
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Building Solutions
+###  Building Solutions
 From concept to deployment, I build **full-stack applications** that solve real-world problems. My focus is on creating scalable, user-centric solutions using modern tech stacks.
 
 **Current Project:**
@@ -73,10 +73,10 @@ From concept to deployment, I build **full-stack applications** that solve real-
 
 ---
 
-## 🔧 TECHNICAL ARSENAL
+##  TECHNICAL ARSENAL
 
 <details open>
-<summary><b>🎨 Frontend Engineering</b></summary>
+<summary><b> Frontend Engineering</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -89,7 +89,7 @@ From concept to deployment, I build **full-stack applications** that solve real-
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Engineering</b></summary>
+<summary><b> Backend Engineering</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -101,7 +101,7 @@ From concept to deployment, I build **full-stack applications** that solve real-
 </details>
 
 <details open>
-<summary><b>🧠 Problem Solving Languages</b></summary>
+<summary><b> Problem Solving Languages</b></summary>
 <br>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -113,7 +113,7 @@ From concept to deployment, I build **full-stack applications** that solve real-
 </details>
 
 <details open>
-<summary><b>🛠️ Developer Tools</b></summary>
+<summary><b> Developer Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -127,11 +127,11 @@ From concept to deployment, I build **full-stack applications** that solve real-
 
 ---
 
-## 🏆 COMPETITIVE PROGRAMMING JOURNEY
+##  COMPETITIVE PROGRAMMING JOURNEY
 
 <div align="center">
 
-### 🎖️ Platforms & Achievements
+###  Platforms & Achievements
 
 <table>
   <tr>
@@ -166,7 +166,7 @@ From concept to deployment, I build **full-stack applications** that solve real-
   </tr>
 </table>
 
-### 📊 Problem-Solving Stats
+###  Problem-Solving Stats
 
 ```text
 Total Problems Solved    ████████████████████░  800+
@@ -180,21 +180,19 @@ Greedy & Binary Search   ████████████████░░�
 
 ---
 
-## 🌟 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
-### 🍜 [LocalChefBazar](https://localchefbazaar-31da8.web.app) - *Local Food Marketplace Platform*
+###  [LocalChefBazar](https://localchefbazaar-31da8.web.app) - *Local Food Marketplace Platform*
 
 > A full-stack MERN application connecting passionate home chefs with food enthusiasts
 
-**🎯 Problem Solved:** Bridging the gap between talented home cooks and customers seeking authentic, homemade cuisine
+** Problem Solved:** Bridging the gap between talented home cooks and customers seeking authentic, homemade cuisine
 
 **🔧 Technical Highlights:**
-- ⚡ Optimized React components with lazy loading for 40% faster load times
-- 🔐 Secure JWT-based authentication with Firebase integration
-- 📱 Fully responsive design with Tailwind CSS
-- 🗄️ RESTful API with Express.js and MongoDB
-- 🔍 Advanced search and filtering algorithms
-- 💳 Integrated payment processing
+-  Secure JWT-based authentication with Firebase integration
+-  Fully responsive design with Tailwind CSS
+-  Advanced search and filtering algorithms
+-  Integrated payment processing
 
 **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Tailwind CSS` `JWT`
 
@@ -207,7 +205,7 @@ Greedy & Binary Search   ████████████████░░�
 
 ---
 
-## 📊 GITHUB ANALYTICS
+##  GITHUB ANALYTICS
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nerobkabir&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
@@ -225,7 +223,7 @@ Greedy & Binary Search   ████████████████░░�
 
 ---
 
-## 🎓 PROBLEM-SOLVING PHILOSOPHY
+##  PROBLEM-SOLVING PHILOSOPHY
 
 <div align="center">
 
@@ -255,7 +253,7 @@ Greedy & Binary Search   ████████████████░░�
 
 ---
 
-## 🤝 LET'S CONNECT & COLLABORATE
+##  LET'S CONNECT & COLLABORATE
 
 <div align="center">
 
@@ -270,7 +268,7 @@ I'm always excited to collaborate on challenging projects, discuss algorithms, o
 
 <br>
 
-**📱 Phone:** +880 1856 846615 | **📍 Location:** Feni, Bangladesh
+** Phone:** +880 1856 846615 | ** Location:** Feni, Bangladesh
 
 </div>
 
@@ -278,7 +276,7 @@ I'm always excited to collaborate on challenging projects, discuss algorithms, o
 
 <div align="center">
 
-### 💼 Open for Opportunities
+###  Open for Opportunities
 
 **Full-Stack Development** • **Competitive Programming** • **Open Source Contributions** • **Freelance Projects**
 
@@ -288,9 +286,9 @@ I'm always excited to collaborate on challenging projects, discuss algorithms, o
 
 <br>
 
-**⭐ Found something interesting? Star my repositories!**
+** Found something interesting? Star my repositories!**
 
-**🚀 Let's build something amazing together!**
+** Let's build something amazing together!**
 
 <sub>Last Updated: January 2026</sub>
 
