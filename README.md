@@ -140,7 +140,6 @@ From concept to deployment, I build **full-stack applications** that solve real-
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="80px" alt="Codeforces"/>
         <br><b>Codeforces</b>
         <br>
-        <img src="https://img.shields.io/badge/Rating-Expert-blue?style=flat-square"/>
       </a>
     </td>
     <td align="center" width="25%">
@@ -148,7 +147,6 @@ From concept to deployment, I build **full-stack applications** that solve real-
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="80px" alt="LeetCode"/>
         <br><b>LeetCode</b>
         <br>
-        <img src="https://img.shields.io/badge/Problems-500%2B-orange?style=flat-square"/>
       </a>
     </td>
     <td align="center" width="25%">
@@ -156,7 +154,6 @@ From concept to deployment, I build **full-stack applications** that solve real-
         <img src="https://img.icons8.com/windows/96/000000/hackerrank.png" width="80px" alt="HackerRank"/>
         <br><b>HackerRank</b>
         <br>
-        <img src="https://img.shields.io/badge/Stars-5%20⭐-success?style=flat-square"/>
       </a>
     </td>
     <td align="center" width="25%">
@@ -164,7 +161,6 @@ From concept to deployment, I build **full-stack applications** that solve real-
         <img src="https://img.icons8.com/color/96/000000/codechef.png" width="80px" alt="CodeChef"/>
         <br><b>CodeChef</b>
         <br>
-        <img src="https://img.shields.io/badge/Rating-Active-yellow?style=flat-square"/>
       </a>
     </td>
   </tr>
@@ -173,8 +169,8 @@ From concept to deployment, I build **full-stack applications** that solve real-
 ### 📊 Problem-Solving Stats
 
 ```text
-Total Problems Solved    ████████████████████░  1000+
-Dynamic Programming      ███████████████████░░  200+
+Total Problems Solved    ████████████████████░  800+
+Dynamic Programming      ███████████████████░░  100+
 Graph Algorithms         ██████████████████░░░  180+
 Data Structures          ████████████████████░  250+
 Greedy & Binary Search   ████████████████░░░░░  150+
